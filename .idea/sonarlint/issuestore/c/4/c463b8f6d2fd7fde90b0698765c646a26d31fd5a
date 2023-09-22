@@ -1,0 +1,7 @@
+
+†
+java:S1319
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(öÛàÒ
+†
+java:S1319"pThe type of "operationSquares" should be an interface such as "List" rather than the implementation "ArrayList".(üÜ¿ß
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¯Õ¹øÿÿÿÿ
